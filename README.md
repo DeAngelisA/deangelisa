@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Andrea De Angelis, currently an SNF Ambizione Researcher in the Department of Political Science at the University of Zurich. Welcome to my GitHub profile!
+I'm Andrea De Angelis, currently an Assistant Professor (Tenure Track) in Computational Social and Political Sciences at the University of Milan. I am also an SNF Ambizione Researcher in the Department of Political Science at the University of Zurich. Welcome to my GitHub profile!
 
-- 🔭 **I’m currently working on:** The project “Political Misinformation in the Digital Age,” funded by the Swiss National Science Foundation. My research focuses on political misinformation, media change, dealignment, and the personalization of politics in European democracies.
+- 🔭 **I’m currently working on:** The project “Political Misinformation in the Digital Age,” funded by the Swiss National Science Foundation. My research focuses on political misinformation, computational social scienes, and public opinion in Western democracies.
   
 - 🌱 **I’m currently learning:** How to use LLMs for my teaching and research (ideas are welcome!). 
 
@@ -12,9 +12,7 @@ I'm Andrea De Angelis, currently an SNF Ambizione Researcher in the Department o
 
 - 💬 **Ask me about:** Electoral politics, media effects, political misinformation, and computational methods in social science research.
 
-- 📫 **How to reach me:** Email me at deangelis@ipz.uzh.ch or connect with me on [LinkedIn](https://www.linkedin.com).
-
-- ⚡ **Fun fact:** I am training to run my first marathon!
+- 📫 **How to reach me:** Email me at andrea.deangelis@unimi.it or connect with me on [LinkedIn](https://www.linkedin.com/in/deangelisa/).
 
 **Languages and Tools:** 
 - R, Python, HTML, CSS, HTTP, Git, LaTeX, Markdown, Stata, JAGS, Stan, MATLAB
